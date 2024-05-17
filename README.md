@@ -7,9 +7,9 @@
 ## Skills
 - 🌱 Frontend : React, Next, Web3.js, Angular, Vue, Nuxt, Jquery, Material UI, Bootstrap, TailwindCSS
 - 🔭 Backend : NodeJs, CI, Laravel, Django, Express, Nestjs, PHP,
-- 📲 Mobile: Android, React Native, Ionic, Flutter
+- 📲 Mobile: Android(Kotlin,Java), React Native, Ionic, Flutter
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, AES Lambda, Spring Cloud
-- 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, Go
+- 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, Go, Java, Kotlin
 - 🔥 CMS: WordPress, Shopify, Wix, Framer, Webflow
   
 <!-- ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
