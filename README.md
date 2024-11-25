@@ -168,7 +168,7 @@
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="48" height="48" />
-      <br>Sass
+      <br>Scss
     </td>
     </td>
     <td align="center" width="96">
