@@ -11,7 +11,7 @@
 - 📲 Mobile: Android(Kotlin,Java), React Native, Ionic, Flutter
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, AES Lambda, Spring Cloud, Amazon Web Service
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, ,Rust, Ruby on Rails, PHP, C++, C#, Go, Java, Kotlin
-- 🔥 CMS: WordPress, Shopify, Wix, Framer, Webflow
+- 🔥 CMS: WordPress, Shopify, Wix, Framer, Webflow, Sanity, Contentful, PayloadCMS, Builder.io
   
 <!-- ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
