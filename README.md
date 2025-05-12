@@ -187,12 +187,12 @@
 ### PROJECTS AND DEV STUFF
 <b>⚡ Github Stats</b>
     <br />
-    <!-- <p align="center">
+     <p align="center">
         <a href="https://github.com/BigStar-2024?tab=repositories">
             <img width="54%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BigStar-2024&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
             <img width="45%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BigStar-2024&theme=gotham&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
         </a>
-    </p> -->
+    </p> 
     <p>
   <a href="https://github.com/BigStar-2024" target="_blank" rel="noopener noreferrer">
     <img
